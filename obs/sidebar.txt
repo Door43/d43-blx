@@ -1,11 +1,33 @@
 
 ----
 
-**[[blx:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>blx:obs:stories}}
+  * [[blx:home|Door43 (blx)]]
 
+**Resources**
+
+  * [[blx:obs|Open Bible Stories (blx)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-blx|d43-blx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-blx/archive/master.zip|d43-blx.zip]]
+
+**Recent Changes**
+{{changes>ns = blx}}
 
 **Latest Status**
 {{page>en:uwadmin:blx:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/blx|Ethnologue data]]
+
+**Resources**
+
+  * [[blx:obs|Open Bible Stories (blx)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:blx:obs:status}}
