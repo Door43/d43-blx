@@ -32,5 +32,5 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Latest OBS Status**
 
-{{page>en:uwadmin:blx:obs:status}} Test
+{{page>en:uwadmin:blx:obs:status}}
 
