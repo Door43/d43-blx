@@ -9,12 +9,12 @@
 
   * [[blx:obs|Open Bible Stories (blx)]]
 
+{{page>blx:obs:stories}}
 
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-blx|d43-blx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-blx/archive/master.zip|d43-blx.zip]]
 
-{{page>blx:obs:stories}}
 
 **Recent Changes**
 {{changes>ns = blx}}
