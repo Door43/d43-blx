@@ -1,16 +1,16 @@
 //Translation for the unfoldingWord mobile app interface // 
 
 
-Select a language: Select a Language
+Select a language: Piliin na Sabi
 
 
-Chapters: Chapters
+Chapters: Kapitulu
 
 
-Languages: Languages
+Languages: Mani Sabi
 
 
-Next chapter: Next Chapter
+Next chapter: Kasunul la Kapitulu
 
 
 OK: OK
