@@ -28,8 +28,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Resources**
 
   * [[:blx:obs|Open Bible Stories (blx)]]
-
-**Latest OBS Status**
-
-{{page>en:uwadmin:blx:obs:status}}
-
