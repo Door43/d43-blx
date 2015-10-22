@@ -15,13 +15,8 @@
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-blx|d43-blx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-blx/archive/master.zip|d43-blx.zip]]
 
-
 **Recent Changes**
 {{changes>ns = blx}}
-
-**Latest Status**
-{{page>en:uwadmin:blx:obs:status}}
-
 
 **Language Information**
 
@@ -31,5 +26,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[blx:obs|Open Bible Stories (blx)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:blx:obs:status}}
