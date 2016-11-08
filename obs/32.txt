@@ -89,7 +89,7 @@ Jesus returned to the other side of the lake. After he arrived there, a large cr
 
 Bumalik sila Jesus sa kabilang pampang ng lawa at pagdating nila doon sumalubong sa kanila ang napakaraming tao. Nagsiksikan sila at pinalibutan si Jesus. Kabilang sa mga taong nakikipagsiksikan doon ay ang babaeng labindalawang taon na walang tigil na dinudugo at naubos na lahat ng pera niya sa kakapagamot sa doktor para gumaling pero sa halip lumala pa ang sakit niya.
 
-Nag-udung si Jesus sa lipay dagat. Malakêy tawuy nipipiitan kana. Dilag gisay babayi bayduy mapu buy luway tawun nan pandayên. Naubus say kaganawan pibandiyan na sa pamayad sa pagpaêlêw na sa mani manulu. Nuwa asê mapaiyul, agyan sabêt man na sakit na.
+Nag-udung si Jesus sa lipay dagat. [buy] Malakêy tawuy nipipiitan kana. Dilag gisay babayi bayduy mapu buy luway tawun nan pandayên. Naubus say kaganawan pibandiyan na sa pamayad sa pagpaêlêw na sa mani manulu. Nuwa asê mapaiyul, agyan sabêt man na sakit na.[sa halip lumala pa ang sakit niya.]
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-14.jpg}}
 
@@ -97,7 +97,7 @@ She had heard that Jesus had healed many sick people and thought, "I'm sure that
 
 Nabalitaan niya na marami ng may sakit ang pinagaling ni Jesus kaya nasabi niya sa isip niya, “Siguradong gagaling ako kahit mahipo ko man lang ang laylayan ng damit ni Jesus.” Kaya pumunta siya sa likuran ni Jesus at hinawakan ang damit niya. Pagkahawak niya sa damit kaagad na huminto ang pagdurugo niya.
 
-Nabalitan nay mamaiyul si Jesus. Kabay naku ya kan Jesus. Sên marani yina sa bukutan na, dinukpan nay palpal yaming Jesus. Pamakadukpa na tambêng yan inumiyul.
+Nabalitan nay mamaiyul si Jesus. [missing - kaya nasabi niya sa isip niya, “Siguradong gagaling ako kahit mahipo ko man lang ang laylayan ng damit ni Jesus.”] Kabay naku ya kan Jesus. Sên marani yina sa bukutan na, dinukpan nay palpal yaming Jesus. Pamakadukpa na, tambêng yan inumiyul. [huminto ang pagdurugo niya]
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg}}
 
@@ -105,8 +105,7 @@ Immediately, Jesus realized that power had gone out from him. So he turned aroun
 
 Agad naramdaman ni Jesus na may napagaling ang kapangyarihan niya kaya lumingon siya at nagtanong, “Sino ang humipo sa akin?” Sumagot naman ang mga alagad niya at sinabi nilang, “Napakaraming taong nakapalibot at sumisiksik sa inyo, bakit niyo tinatanong sa amin kung sino ang humipo sa inyo?”
 
-Tambeng natanam Jesus ya dilag nag-awas sa kapangyarian ubat kana. Kabay nangêlêw ya sa palitêng buy namatang, “Sisabêt ta nandukpa kangkun ah?”  
-
+Tambêng natanam Jesus ya dilag nag-awas sa kapangyarian ubat kana. Kabay [lumingon siya at] nangêlêw ya sa palitêng buy namatang, “Sisabêt ta nandukpa kangkun ah?”  
 Nakitbay ya mani tagasunul na, “Manuru, tanda muy malakêy tawuy nakapalitêng nga nipipiitan amên midani kamu. Uysiyan mamatang ka ya pun nu sisabêt ta nandukpa kamu ta?”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg}}
@@ -115,7 +114,7 @@ The woman fell on her knees before Jesus, shaking and very afraid. Then she told
 
 Pagkarinig ng babae sa sinabi ni Jesus, nanginig siya sa takot at agad siyang lumuhod sa harapan ni Jesus at inamin niya ang ginawa niya at kung paano siya gumaling. Sinabi ni Jesus sa kanya, “Pinagaling ka ng iyong pananampalataya. Makakauwi ka na ng payapa.”
 
-Nandukuy babayi sa arapan  Jesus. Manginagin ya buy sadyay limu na. Insabi nay peteg. Kabay sinabin Jesus kana, “Patêl la, muli kaynan napatêtbêk ka nakêm. Inumiyul ka gawan sa panampalataya mu kangku.” 
+Nandukuy babayi sa arapan Jesus. Manginagin ya buy sadyay limu na. Insabi nay pêtêg. [inamin niya ang ginawa niya at kung paano siya gumaling.] Kabay sinabin Jesus kana, “Patêl la, muli kaynan napatêtbêk ka nakêm. Inumiyul ka gawan sa panampalataya mu kangku.” [Switch the clauses?]
 
 //A Bible story from: Matthew 8:28-34; 9:20-22; Mark 5:1-20; 5:24b-34; Luke 8:26-39; 8:42b-48//
 
