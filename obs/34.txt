@@ -32,7 +32,7 @@ Dilag pun gisay kwentu si Jesus. Sinabi na, “Ya pag-arin Bapan Namalyari, maip
 
 “Ang paghahari ng Diyos ay gaya din ng isang mahalagang kayamanan na ibinaon ng isang tao sa lupa. Nahanap ito ng ibang tao at ibinaon niya itong muli. Tuwang-tuwa siya kaya ibinenta niya ang lahat ng ari-arian at ito ang ginamit niya para ipambili sa lupain na iyon.”
 
-“Ya pag-arin Bapan Namalyari maiparisu êt sa gisay pibandiyan na nakakali sa gisay panggitnan. Sên nakitan gisay liyaki ya ati, ingkali nan manguman.  Matula-tula ya kabay insaliw nay kaganawan pibandiyan na buy sinaliw nay panggitnan na abitu.” 
+“Ya pag-arin Bapan Namalyari maiparisu êt sa gisay pibandiyan na nakakali sa gisay panggitnan [lupa/field]. Sên nakitan [nahanap/found] gisay liyaki ya ati, ingkali nan manguman.  Matula-tula ya. Kabay insaliw nay kaganawan pibandiyan na buy sinaliw nay panggitnan [lupain/field] na abitu.” 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg}}
 
@@ -40,8 +40,7 @@ Dilag pun gisay kwentu si Jesus. Sinabi na, “Ya pag-arin Bapan Namalyari, maip
 
 “Ang paghahari ng Diyos ay gaya din ng isang magandang perlas na mamahalin. Nang makita ito ng isang mangangalakal, ibinenta niya ang lahat ng mayroon siya at ginamit niya ito para mabili ang perlas.”
 
-
-“Ya pag-arin Bapan Namalyari maiparisu êt sa gisay mangalakal mani perlas. Mangkap yan mamangêd da perlas ya makamalkamal. Sên nakitan nay perlas ya pantêkapen na, insaliw nay kaganawan pibandiyan na buy sinaliw nay abituy perlas.”
+“Ya pag-arin Bapan Namalyari, maiparisu êt sa gisay mangalakal mani perlas. Mangkap yan mamangêd da perlas ya makamalkamal. Sên nakitan nay perlas ya pantêkapen na, insaliw nay kaganawan pibandiyan na buy sinaliw nay abituy perlas.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg}}
 
