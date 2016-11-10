@@ -6,7 +6,7 @@ After the soldiers mocked Jesus, they led him away to crucify him. They made him
 
 Pagkatapos laitin ng mga sundalo si Jesus pinalakad nila siya habang binubuhat ang krus kung saan siya ipapako at mamamatay.
 
-Pamakayarin dinustak mani sundalus si Jesus, pinabita laya kaban nakabakay kanay krus nu saantu ya ipaku buy mati.
+Pamakayarin dinustak mani sundalus si Jesus, pinabita laya kaban nakabakay kanay krus nu saantu ya ipaku buy mati. [seems we followed Tagalog but is it the most natural? Sugg: pinabita la ya papakun sa lugal la ipapati la ya. Impabakay la kanay kurus nu saantu la ya ipapaku.]
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg}}
 
@@ -14,7 +14,7 @@ The soldiers brought Jesus to a place called "the Skull" and nailed his hands an
 
 Dinala ng mga sundalo si Jesus sa lugar na kung tawagin ay “Bungo.” Ipinako nila ang mga kamay at mga paa niya sa krus. Iniutos ni Pilate na sumulat sila ng ganito at ilagay sa itaas ng ulunan ni Jesus, “Hari ng mga Hudyo.”Ngunit kahit ganoon ang ginawa sa kanya sinabi niya, “Ama, patawarin ninyo ang mga taong ito dahil hindi nila alam kung ano ang ginagawa nila.”
 
-Gintan mani sundalus si Jesus sa gisay lugal ya nu bêgên “Bungu”. Impaku la baydu si Jesus. Nuwa kaban pan-ipaku la ya, sinabin Jesus, “Bapa patawarên mu sila ta a la tanday pandaygên la.” Dilag impapaku si Pilatu sa ugtun ulun Jesus. Si nakasulat baydu, “Ati ya Arin mani Judiu.”
+Gintan mani sundalus si Jesus sa gisay lugal ya nu bêgên [pambegen?] “Bungu”. Impaku la baydu si Jesus. [hands and feed] Nuwa kaban pan-ipaku la ya, sinabin Jesus, “Bapa patawarên mu sila ta a la tanday pandaygên la.” Dilag impapaku si [Gobernador] Pilatu sa ugtun ulun Jesus. Si nakasulat baydu, “Ati ya Arin mani Judiu.” [combine this with previous sentence?]
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg}}
@@ -24,7 +24,7 @@ The soldiers gambled for Jesus' clothing. When they did this, they fulfilled a p
 
 Pinagpustahan ng mga sundalo kung kanino mapupunta ang damit ni Jesus. Sa ginawa nilang iyon, tinupad nila ang propesiya na nagsasabing ganito, “Pinaghatian nila ang mga damit ko sa pamamagitan ng pustahan.”
 
-Nibabagutan na mani sundalus amên matandan la nu sisabêt ta makakwan yaming Jesus. A la tanda kaban pandaygên lay ati, natupad day idi sa kasulatan, paradi ya nakasulat, “Gininit lay mani yaming ku buy pinibabagutan lay yaming ku.”
+Nibabagutan na mani sundalus amên matandan la nu sisabêt ta makakwan yaming Jesus. A la tanda kaban pandaygên lay ati, natupad day idi sa kasulatan, [Sa pandaygen la abiin, a la tanday natupad lay idi sa kasulatan ya paradi] paradi ya nakasulat, “Gininit [divided] lay mani yaming ku buy pinibabagutan lay yaming ku.”
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg}}
@@ -35,10 +35,10 @@ Jesus was crucified between two robbers. One of them mocked Jesus, but the other
 Ipinako si Jesus sa gitna ng dalawang magnanakaw. Ininsulto ng isa sa kanila si Jesus pero pinagsabihan naman siya ng isa pang magnanakaw, “Dapat kang matakot sa Diyos dahil walang kasalanan ang taong ito at tayo ang may nagawang kasalanan. Nakiusap ang magnanakaw na iyon kay Jesus, “Alalahanin mo ako sa iyong kaharian.” Sinagot naman siya ni Jesus at sinabing, “Sa araw na ito, isasama kita sa Paraiso.”
 
 
-Dilag êt luway kaawyun si Jesus ya impaku sa krus, si gisa idi sa êtêb panabtab na buy si gisa, idi sa udi na. Sinabin idi sa udin Jesus, “Uysiyan a mu ya iligtas ya sarili mu buy sikay ta?” 
+Dilag êt luway kaawyun si Jesus ya impaku sa [mani] krus, si gisa idi sa êtêb panabtab na buy si gisa, idi sa udi na. Sinabin idi sa udin Jesus, “Uysiyan a mu ya iligtas ya sarili mu buy sikay ta?” 
 Nuwa sinabyanan yan gisa pun na manakaw, “A ka nayi malimu kan Bapan Namalyari? Makasalanan kitamu, nuwa siya ayin yan kasalanan.” 
-Buy sinabi na kan Jesus, “Ganagên muku nu mag-ari kay na.” 
-Nakitbay si Jesus, “Amêsên êt pakilaku kata sa Paraisu.”
+Buy sinabi [nakiusap] na kan Jesus, “Ganagên muku nu mag-ari kay na.” 
+Nakitbay si Jesus, “Amêsên êt, pakilaku [makaawyun?] kata sa Paraisu.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg}}
 
@@ -46,7 +46,7 @@ The Jewish leaders and the other people in the crowd mocked Jesus. They said to 
 
 Hinamak din ng mga pinuno ng Hudyo at ng mga ibang tao si Jesus. Sinabi pa nila kay Jesus, “Kung talagang ikaw nga ang Anak ng Diyos, bumaba ka nga mula sa krus at iligtas mo ang sarili mo at saka kami maniniwala sa iyo.”
 
-Dinustak êt mani pinunun Judiu buy mani tawu si Jesus. Sinabi la, “Nu taganan sikay Anak Bapan Namalyari, magtabuy ka buy iligtas muy sarili mu. Nu  madyag muy abiin, maniwala kay kamu!”
+Dinustak êt mani pinunun Judiu buy [kaatag] mani tawu si Jesus. Sinabi la kana, “Nu taganan sikay Anak Bapan Namalyari, magtabuy ka [sa kurus] buy iligtas muy sarili mu. Nu madyag muy abiin, maniwala kay kamu!”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg}}
 
@@ -54,7 +54,7 @@ Then the sky over the whole region became completely dark, even though it was th
 
 Tanghali na noon pero biglang nagdilim ng husto ang kapaligiran ng tatlong oras.
 
-Ugtuy mamut ta abitu, nuwa bêngat tan dinumiglêm sa palitêng la. Nabuyutan tatluy uras ya nadiglêm.
+Ugtuy mamut ta abitu, nuwa bêngat tan dinumiglêm sa palitêng la. Nabuyutan tatluy uras ya nadiglêm. [It stayed dark from noon until 3:00 in the afternoon.]
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg}}
