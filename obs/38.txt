@@ -39,7 +39,7 @@ Then Jesus picked up a cup and said, "Drink this. It is my blood of the New Cove
 
 Pagkatapos ay kinuha niya ang baso at sinabi, “Inumin niyo ito. Ito ang aking dugo na dadanak para sa kapatawaran ng mga kasalanan na siya ring simula ng Bagong Kasunduan. Tuwing iinumin niyo ito gawin niyo bilang pag-alaala sa akin.” 
 
-Pamakayari, kinwan Jesus ya alak. Sinabi na, “Inêmên yuy ati. Ati ya daya kuy pan-idin ku amên mapatawad da mani kasalanan tawu. Ati ya Bayuy Kasunduwan ya pandaygên ku para kamuyu. Daygên yuy ati bilang pangganaka yu kangku.”  
+Pamakayari, kingwan Jesus ya alak buy sinabi na, “Inêmên yuy ati. Ati ya daya kuy pan-idin ku amên mapatawad da mani kasalanan tawu. Ati ya [simula ng] Bayuy Kasunduwan ya pandaygên ku para kamuyu. [Tuwing iinumin/Every time you drink it] Daygên yuy ati bilang pangganaka yu kangku.”  
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg}}
 
@@ -47,7 +47,7 @@ Then Jesus said to the disciples, "One of you will betray me." The disciples wer
 
 Sinabi rin ni Jesus sa mga apostol, “Pagtataksilan ako ng isa sa inyo.” Nagulat ang mga apostol at nagtanungan kung sino sa kanila ang makagagawa ng bagay na ito. Sinabi ni Jesus, “Ang taong bibigyan ko ng tinapay ang siyang magtataksil.” Pagkatapos binigyan niya ng tinapay si Judas.
 
-Pamakayari, sinabin Jesus, “Gisa kamuyuy mamisupakat kangku.” Nakatêgag ga mani tagasunul na. A la maiisip ya dilag manyag parabaydu kan Jesus. Sinabin Jesus, “Si tawuy biyan kun ati ya tinapay sabay ya mamisupakat kangku.” Pamakayari, indin nay tinapay kan Judas.  
+Pamakayari, sinabin Jesus sa mani tagasunul na, “Gisa kamuyuy mamisupakat kangku.” Nakatêgag ga mani tagasunul na. A la maiisip ya dilag manyag parabaydu kan Jesus. [at nagtanungan kung sino sa kanila ang makagagawa ng bagay na ito] Sinabin Jesus, “Si tawuy biyan kun ati ya tinapay sabay ya mamisupakat kangku.” Pamakayari, indin [binyan?] nay tinapay kan Judas.  
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg}}
@@ -56,14 +56,10 @@ After Judas took the bread, Satan entered into him. Judas left and went to help 
 
 Pagkakuha ni Judas sa tinapay napasailalim na siya sa kapangyarihan ni Satan at umalis siya para makipagtulungan sa mga pinuno ng Hudyo para madakip na si Jesus nang gabing iyon.
 
-Sên naêkan nan Judas ya tinapay, sinumun na kana si Satanas. Namita ya buy nakisawupan ya sa mani pinunun mani Judiu amên madakêp la si Jesus. Yabi yanay abitu.   
+Sên naêkan nan Judas ya tinapay, [Pagkakuha ni Judas sa tinapay] sinumun na kana si Satanas [napasailalim na siya sa kapangyarihan ni Satan]. Namita ya buy nakisawupan ya sa mani pinunun mani Judiu amên madakêp la si Jesus. Yabi yanay abitu.   
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg}}
-
-After the meal, Jesus and his disciples walked to the Mount of Olives. Jesus said, "You will all abandon me tonight. It is written, 'I will strike the shepherd and all the sheep will be scattered.'"
-
-Pagkatapos nilang kumain pumunta si Jesus at ang mga apostol niya sa Bundok ng Olibo. Sinabi ni Jesus, “Iiwanan niyo na akong lahat ngayong gabi dahil nakasulat sa salita ng Diyos, ‘Papatayin ko ang pastol at magkakawatak-watak ang mga tupa.”’
 
 Pamakayari lan nangan, naku si Jesus buy mani tagasunul na sa Bung-uy mani Ulibu. Sinabin Jesus, “Sa yabin ati lakwanan yuku kaparisun nakasulat sa Sabin Bapan Namalyari, ‘Patin kuy pastul buy mikyat ta mani tupa.’ 
 
@@ -75,7 +71,7 @@ Sumagot si Peter kay Jesus, “Kahit iwanan pa kayo ng lahat, hindi ko kayo iiwa
 
 Nakitbay si Pedru, “Agyan lakwanan kaw kaganawan, a kataw lakwanan!” 
 
-Sinabin Jesus kan Pedru, “Labay Satanas ya kêwên nakaw kaganawan, nuwa manalangin naku para kamuy Pedru amên asê mitas ya panampalataya mu. Paraman baydu, sa yabin ati bayu mangkati ya manuk, katitlu mukun ipuglaw.” 
+Sinabin Jesus kan Pedru, “Labay Satanas ya kêwên nakaw kaganawan, nuwa manalangin naku para kamuy Pedru amên asê mitas ya panampalataya mu. Paraman baydu, sa yabin ati bayu mangkati ya manuk, katitlu mukun ipuglaw. [do we need to add kilala?] ” 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg}}
 
@@ -83,7 +79,7 @@ Peter then said to Jesus, "Even if I must die, I will never deny you!" All the o
 
 Sinabi ni Peter kay Jesus, “Kahit mamatay pa ako, hindi ko kayo ipagkakaila!” Ganoon rin ang sinabi ng mga ibang apostol.
 
-Nuwa insabi pun êt Pedruy, “A kata ipuglaw, agyan patin nakun kaawyun mu.” Para êt bayduy sinabin kaatag pun na mani tagasunul. 
+Sinabi pun êt Pedruy, “A kata ipuglaw, agyan patin nakun kaawyun mu [delete "kaawyun mu"?].” Para êt bayduy sinabin kaatag pun na mani tagasunul. 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg}}
 
@@ -91,7 +87,7 @@ Then Jesus went with his disciples to a place called Gethsemane. Jesus told his 
 
 Tumuloy si Jesus kasama ng mga apostol sa lugar na tinatawag na Gethsemane. Sinabihan ni Jesus ang mga apostol na manalangin sila para hindi sila matukso. Pagkatapos umalis si Jesus para makapag-isa at makapanalangin.
 
-Naku si Jesus buy mani tagasunul na sa lugal la pambêgên Getsemani. Sinabin Jesus kalla, “Manalangin kaw amên a kaw masambut Satanas.” Pamakayari, nagpakarayu yan pêrad amên manalangin. 
+Naku si Jesus buy mani tagasunul na sa lugal la pambêgên Getsemani. Sinabin Jesus kalla, “Manalangin kaw amên a kaw masambut Satanas. [hindi matukso]” Pamakayari, nagpakarayu yan pêrad [umalis si Jesus para makapag-isa] amên manalangin. 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg}}
 
@@ -100,7 +96,7 @@ Jesus prayed three times, "My Father, if it is possible, please let me not have 
 Tatlong beses nanalangin si Jesus, “Ama, hangga’t maaari huwag mong hayaang maranasan ko ang pagdurusang ito pero kung ito lang ang paraan para mapatawad ang mga tao sa mga kasalanan nila, gawin mo ang nararapat.” Labis na nabalisa si Jesus. Pinawisan siya at ang mga patak nito ay parang dugo kaya nagpadala ang Diyos ng mga anghel para palakasin siya.
 
 
-Katitlun nanalangin Jesus, “Bapa ku, nu malyari, itas mu dayi kangkuy mani kasakitan na lumatêng. Nuwa para man bayduy alwan kalabayan kuy masunul, nun a ya kalabayan mu.”  Gawan sa sadyay kalungkutan Jesus nantuluy sayngit nan paray nan daya. Namiutus si Bapan Namalyarin mani ang-el amên papas-êyên na nakêm na.
+Katitlun nanalangin Jesus, “Bapa ku, nu malyari, itas mu dayi kangkuy mani kasakitan na lumatêng. Nuwa para man bayduy alwan kalabayan kuy masunul, nun a ya kalabayan mu.[pero kung ito lang ang paraan para mapatawad ang mga tao sa mga kasalanan nila, gawin mo ang nararapat.]”  Gawan sa sadyay kalungkutan [balisa/troubled] Jesus nantuluy sayngit nan paray nan daya. Kabay namiutus si Bapan Namalyarin mani ang-el amên papas-êyên na nakêm na.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg}}
 
@@ -108,7 +104,7 @@ After each time of prayer, Jesus came back to his disciples, but they were aslee
 
 Tuwing matatapos manalangin si Jesus bumabalik siya sa mga apostol at nakikita niyang natutulog lang ang mga ito. Sa pangatlong pagbalik niya sinabi ni Jesus sa kanila, “Gumising kayo! Nandito na ang magtataksil sa akin.”
 
-Balang mayarin manalangin si Jesus, mag-udung ya sa mani tagasunul na buy makitan nan kay pawa silan mamabêlêw. Sa katitlun pag-udung na, sinabi na, “Mimata kaw! Abiti yay tawuy mamipadakêp kangku.” 
+Balang mayarin manalangin si Jesus, mag-udung ya sa mani tagasunul na buy makitan nan kay pawa silan mamabêlêw. Sa katitlun pag-udung na, sinabi na kalla, “Mimata kaw! Abiti yay tawuy mamipadakêp [makisupakat/magtataksil/betrayer] kangku.” 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg}}
 
@@ -117,7 +113,7 @@ Judas came with the Jewish leaders, soldiers, and a large crowd. They were carry
 
 Dumating si Judas kasama ang mga pinuno ng Hudyo, mga sundalo at maraming tao. May dala dala silang tabak at pamalo. Nilapitan ni Judas si Jesus at sinabi, “Magandang gabi po Guro.” Sabay halik kay Jesus dahil ito ang palatandaan para malaman ng mga pinuno ng mga Hudyo kung sino ang dadakipin nila. Pagkatapos sinabi ni Jesus, “Judas, halik ba ang gagamitin mo para pagtaksilan ako?”
 
-Kaawyun inlumatêng Judas ya mani pinunun mani Judiu, mani sundalus buy malakêy tawu ya dilag gêgtan na kêya buy pamatuk. Nagdani si Judas kan Jesus buy sinabi na, “Mangêd da yabi kamuy, Manuru.” Agnan pandêp na kan Jesus.  Ati ya tanda' amên matandan mani kaawyun na nu sisabêt ta dakpên. Sinabin Jesus kana, “Judas, sabay nayi ya abiin na tanda' sa pamisupakat mu kangku?” 
+Kaawyun inlumatêng Judas ya mani pinunun mani Judiu, mani sundalus buy malakêy tawu ya dilag gêgtan na kêya buy pamatuk. Nagdani si Judas kan Jesus buy sinabi na, “Mangêd da yabi kamuy, Manuru”, agnan pandêp na kan Jesus.  Ati ya tanda' amên matandan mani kaawyun na nu sisabêt ta dakpên. Sinabin Jesus kana, “Judas, sabay nayi ya abiin na tanda' sa pamisupakat mu kangku?” [“Judas, halik ba ang gagamitin mo para pagtaksilan ako?”]
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg}}
 
@@ -125,7 +121,7 @@ As the soldiers arrested Jesus, Peter pulled out his sword and cut off the ear o
 
 Nang dinakip ng mga sundalo si Jesus binunot ni Peter ang tabak niya at nataga niya ang tainga ng lingkod ng punong pari. Sinabi ni Jesus, “Bitawan mo ang tabak mo! Kaya kong hingin sa aking Ama na padalhan ako ng mga anghel para ipagtanggol ako pero kailangan kong sundin ang kalooban niya.” Pagkatapos pinagaling ni Jesus ang nahiwang tainga ng lingkod at ibinalik ito sa dati. Dinakip na nila si Jesus at nagsipagtakbuhan ang mga apostol niya.
 
-Sên dinakêp mani sundalus si Jesus, nanganus kêya si Pedru buy pinutus nay têk ipus puun pari. Naputus nay têk ipus. Sinabin Jesus, “Isakêb muy abiin na  kêya mu! A mu nayi tanday malyari yakun manyawad libulibuy ang-el sa Bapa ku amên itanggul laku? Nuwa kaylangan kun sunulun na Bapa ku.” Pamakayari pinaiyul Jesus ya têk ipus. Nipamwayuy mani tagasunul na buy inlakwanan yan kaganawan. 
+Sên dinakêp mani sundalus si Jesus, nanganus kêya si Pedru buy pinutus nay têk ipus puun pari. Sinabin Jesus, “Isakêb muy abiin na  kêya mu! A mu nayi tanday malyari yakun [Agyu kun] manyawad libulibuy ang-el sa Bapa ku [padalhan ako ng mga anghel] amên itanggul laku? Nuwa kaylangan kun sunulun na Bapa ku [kalabayan bapa ku].” Pamakayari pinaiyul Jesus ya têk ipus. [Dinakip na nila si Jesus at] Nipamwayuy mani tagasunul na buy inlakwanan yan kaganawan. 
 
 //A Bible story from: Matthew 26:14-56; Mark 14:10-50; Luke 22:1-53; John 12:6; 18:1-11//
 
