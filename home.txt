@@ -5,7 +5,8 @@ Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own l
 ===== Resources =====
 
   * **[[blx:obs|Open Bible Stories (blx)]]**
-  * **[[blx:otntlive|ntLive buy otLive (blx)]]**
+  * **[[blx:otLive|otLive (blx)]]**
+  * **[[blx:otLive|otLive (blx)]]**
 
 
 
