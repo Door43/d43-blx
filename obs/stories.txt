@@ -15,6 +15,7 @@
   - [[:blx:obs:13]]
   - [[:blx:obs:14]]
   - [[:blx:obs:15]]
+  - [[:blx:obs:15.5]]
   - [[:blx:obs:16]]
   - [[:blx:obs:17]]
   - [[:blx:obs:18]]
